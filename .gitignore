@@ -119,3 +119,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# data files 
+train.csv
+test.csv
+sample_submission.csv
