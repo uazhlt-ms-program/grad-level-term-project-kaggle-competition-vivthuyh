@@ -34,6 +34,3 @@ To reproduce results, run the notebooks in this order:
 4. `model_svm.ipynb`
 
 Submission files will be saved to the `submissions/` directory in the repo root.
-```
-
-Save this as `scripts/README.md` and commit it!
